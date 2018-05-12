@@ -1,5 +1,8 @@
 _repo: Charles-O-Malley-The-Irish-Dragoon-Volume-2_8674
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lever, Charles James
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1744
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8674#Charles-O-Malley-The-Irish-Dragoon-Volume-2
 gutenberg_issued: '2007-02-02'
 gutenberg_type: Text
 identifiers:
